@@ -44,7 +44,7 @@ body {
 
 .contenuto1 span {
     display: block;
-    margin-top: -25px;
+    margin-top: -18px;
     
 }
 
@@ -55,6 +55,7 @@ body {
     margin-top: -25px;
     font-size: 22px;
 }
+
 
 .bottone {
     background-color: #f74a2a;
@@ -83,6 +84,7 @@ body {
 
 .contenuto2 img {
     border-radius: 50%;
+    width: 100%;
 }
 
 .contenuto3 {
@@ -182,6 +184,7 @@ body {
    background-color: #25a2c3;
    height: 216px;
    color: white;
+   font-size: 14px
 }
 
 .contatti span {
@@ -194,4 +197,8 @@ body {
 
 .contatti hr {
     font-size: small;
+}
+
+.contatti h2{
+    font-size: 30px;
 }
