@@ -184,7 +184,7 @@ body {
    background-color: #25a2c3;
    height: 216px;
    color: white;
-   font-size: 14px
+   font-size: 17px
 }
 
 .contatti span {
@@ -196,9 +196,10 @@ body {
 }
 
 .contatti hr {
-    font-size: small;
+    width: 185px;
 }
 
 .contatti h2{
     font-size: 30px;
 }
+
