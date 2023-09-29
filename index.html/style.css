@@ -63,6 +63,8 @@ body {
     border-radius: 10px; 
     padding: 10px; 
     min-width: 120px;
+    display: block;
+    margin-left: 160px;
 }
 
 .contenuto2 {
